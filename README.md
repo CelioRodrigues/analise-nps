@@ -15,7 +15,7 @@ O **Net Promoter Score (NPS)** é um indicador utilizado para avaliar a satisfa�
 
 Na escala tradicional de 0 a 10, os clientes são classificados em:
 
-![Classificação NPS](./NOME_DA_IMAGEM.png)
+![Classificação NPS](./images/Classificacao_nps.jpg)
 
 - **Detratores:** notas de 0 a 6.
 - **Neutros:** notas de 7 a 8.
