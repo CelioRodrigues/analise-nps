@@ -29,7 +29,7 @@ O NPS agregado é calculado pela diferença entre o percentual de promotores e o
 
 ### 1. Análise Exploratória de Dados
 
-**Pergunta norteadora: Quais fatores operacionais estão mais associados à satisfação dos clientes de um e-commerce?**
+**Pergunta norteadora: Quais fatores operacionais realmente influenciam a satisfação do cliente e como a empresa pode agir de forma proativa para melhorar a experiência antes mesmo da aplicação da pesquisa de NPS?**
 
 A análise exploratória busca compreender a distribuição das notas de NPS, identificar padrões de insatisfação e investigar as relações entre o perfil dos clientes, a experiência de compra e os indicadores operacionais.
 
